@@ -15,7 +15,7 @@ const DEFAULT_ABOUT = {
   foundedYear: '2020',
   teamSize: '50+',
   clientsProtected: '1000+',
-  imageUrl: 'https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=800&h=600&fit=crop',
+  imageUrl: 'https://plus.unsplash.com/premium_photo-1661877737564-3dfd7282efcb?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8SVQlMjBzZWN1cml0eXxlbnwwfHwwfHx8MA%3D%3D',
   imageAlt: 'Modern cybersecurity team working together',
   values: [
     {
